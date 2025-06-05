@@ -10,13 +10,13 @@ Python program that calculates CO₂ emissions for transport vehicles. It receiv
    python cod_aps.py
 Follow the instructions on the console (enter the requested values and get the emission result).
 
-##Features
+## Features
 Automatic calculation of CO₂ emissions based on the provided data.
 
 May include options to choose fuel type (gasoline, diesel, etc.) if implemented.
 
-##Technologies
+## Technologies
 Pure Python (no external libraries).
 
-##Learnings
+## Learnings
 Application of scientific calculation concepts in Python, console input/output, building a basic environmental analysis program.
